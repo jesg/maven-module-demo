@@ -1,0 +1,7 @@
+*~
+target
+.project
+.classes
+.settings
+*.jar
+*.sh
